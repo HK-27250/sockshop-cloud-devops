@@ -28,4 +28,18 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 
 ![Sock Shop in Weave Scope](https://github.com/microservices-demo/microservices-demo.github.io/raw/master/assets/sockshop-scope.png)
 
+## Project Purpose
+
+This project demonstrates the cloud-native deployment of the
+Sock Shop microservices application.
+
+The focus of this project is:
+- Cloud infrastructure provisioning using Infrastructure as Code (Terraform)
+- Deployment on managed Kubernetes
+- Automated CI/CD pipeline
+- Cloud-native architecture and best practices
+
+The application source code itself is not modified.
+
+
 ## 
